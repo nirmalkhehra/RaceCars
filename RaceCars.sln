@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCars", "RaceCars\RaceCars.csproj", "{877F01BD-BED3-47B5-9AB7-BBC826E1D7A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRace_unitTest", "RaceCars\CarRace_unitTest\CarRace_unitTest.csproj", "{CCD3D2FF-2664-4458-986E-5867CF43C566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877F01BD-BED3-47B5-9AB7-BBC826E1D7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877F01BD-BED3-47B5-9AB7-BBC826E1D7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877F01BD-BED3-47B5-9AB7-BBC826E1D7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877F01BD-BED3-47B5-9AB7-BBC826E1D7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD3D2FF-2664-4458-986E-5867CF43C566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD3D2FF-2664-4458-986E-5867CF43C566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD3D2FF-2664-4458-986E-5867CF43C566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD3D2FF-2664-4458-986E-5867CF43C566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60DA3ABB-335D-414C-BEF2-F140A2F08A52}
+	EndGlobalSection
+EndGlobal
